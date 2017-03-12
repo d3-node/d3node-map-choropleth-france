@@ -1,7 +1,7 @@
 {
-  "name": "d3node-congress-map",
+  "name": "d3node-map-choropleth",
   "version": "0.0.1",
-  "description": "D3-Node congress maps",
+  "description": "D3-Node Choropleth map of France",
   "main": "index.js",
   "scripts": {
     "start": "node .",
