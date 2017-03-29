@@ -1,6 +1,6 @@
 {
   "name": "d3node-map-choropleth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "D3-Node example - Choropleth map of France",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,8 @@
   "license": "MIT",
   "dependencies": {
     "d3": "3.5.17",
-    "d3-node": "1.0.0",
-    "d3node-output": "0.0.1",
+    "d3-node": "1.0.1",
+    "d3node-output": "0.0.4",
     "topojson": "2.2.0"
   }
 }
