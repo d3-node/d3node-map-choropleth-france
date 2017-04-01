@@ -6,4 +6,4 @@ $ npm start
 ```
 
 ### Output:
-![map](dist/output.png)
+![map](./example/output.png)

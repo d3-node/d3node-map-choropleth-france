@@ -1,10 +1,10 @@
 {
-  "name": "d3node-map-choropleth",
-  "version": "0.0.2",
-  "description": "D3-Node example - Choropleth map of France",
+  "name": "d3node-map-choropleth-france",
+  "version": "0.0.3",
+  "description": "D3-Node - Choropleth of France",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
+    "start": "node ./example",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
