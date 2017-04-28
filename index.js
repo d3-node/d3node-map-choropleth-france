@@ -56,9 +56,7 @@ function choropleth(population, colorArray, svgStyles = defaultStyle) {
   const path = d3.geo.path()
     .projection(projection);
 
-  const svg = d3n.createSVG()
-    .attr('width', width)
-    .attr('height', height);
+  const svg = d3n.createSVG(width, height);
 
   const g = svg.append('g')
     .attr('class', 'key')
